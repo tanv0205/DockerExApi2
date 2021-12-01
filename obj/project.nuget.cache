@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/ak+TAk689ORCdRlphkktYzo25c/mrCOPPStFUV9P3xS0lvTNiTyQOUUC7cJgcpnfsiWUSQx5agfwapJBTU0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TanveerU\\source\\repos\\DockerExApiVM\\DockerExApiVM\\DockerExApiVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TanveerU\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
